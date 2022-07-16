@@ -28,7 +28,7 @@ Os 3 melhores locais de busca por conteúdos Informáticos são:
     Todos os site informáticos acima são conhecidos internacionalmente.
   </h4>
   <center>
-    <img src="Foto_de_viola.jpg"wigth="350px"height="200px">
+    <img src="Foto_de_viola.jpg" wigth="350px" height="200px" />
  </center>   
   <p>
   Definir componentes do marketing da empresa, como logótipo, canais de contato e identidade visual, são etapas sagrada, e você deve estar atento. Se você acha que não está qualificado para fazer isso sozinho, contrate um especialista, porque este é um assunto que esta directamente vinculado ao sucesso de sua carreira musical.</p>
@@ -58,7 +58,7 @@ O HTTP foi rapidamente adotado pelos principais desenvolvedores de navegadores 
  <a href="https://www.Instagram.com/">Go to or www.Instagram.com</a>
  
  <center>
-<img src="matriz_em_c++.jpg"wigth="400px"Height="350px">
+<img src="matriz_em_c++.jpg"wigth="400px"Height="350px" />
 </center>
 <p>
 Por fim, em 2007, o HTTPbis Working Group foi formado, em parte, para revisar e esclarecer a especificação HTTP / 1.1. Em junho de 2014, o WG divulgou uma especificação atualizada de seis partes da obsoleta RFC 2616 .
